@@ -1,0 +1,201 @@
+
+.one
+{
+    color: mediumblue;
+}
+.two
+{
+    color:rgb(67, 67, 242);
+    
+}
+.main
+{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(213, 211, 211);
+    justify-self: center;
+    margin: 50px;  
+}
+
+.style
+{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    background-color: rgb(213, 211, 211);
+    justify-content: center;
+    margin: 30px;
+    margin-left: 10px;
+}
+.three
+{
+    padding: 20px;
+    margin-left: 60px;
+    margin-top: 20px;
+    color: grey;
+    justify-content: center;
+    margin: 20px;
+    border: 2px solid rgb(202, 198, 198);
+    border-radius: 20px;
+    background-color: white;
+    height: 200px;
+    width: 200px;       
+}
+.three1
+{
+    margin-top: 80px;
+}
+
+.input
+{
+    color: rgb(88, 89, 90);
+}
+.four
+{
+    border: 10px;
+    border-color: aliceblue;
+    border-style: solid;
+    background-color: aliceblue;
+    width: 300px;
+    height:150px;
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    top: 250px;
+    bottom: 250px;
+}
+
+.class
+{
+    border: 10px;
+    border-color: aliceblue;
+    border-style: solid;
+    width: 300px;
+    height: 150px;
+    background-color: aquamarine;
+}
+.five
+{
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.six
+{
+    color: antiquewhite;
+    background-color: cornflowerblue;
+    border-color: aquamarine;
+    position: absolute;
+    left: 170px;
+    height: 30px;
+    width: 90px;
+}
+.seven
+{
+    padding: 20px;
+    margin: 70px;
+    justify-content: center;
+    margin-left: 50px;
+    border: 3px;
+    border-color: grey;
+    border-style: solid;
+    height: 150px;
+    border-radius: 5px;
+    width: 230px;
+    color: grey;
+    text-align: center;
+    align-items: center;
+    position: absolute;
+    left:450px;
+    right:50px;
+    
+}
+.cls
+{
+    position: absolute;
+    top: 10px;
+    left: 120px;
+}
+
+.div
+{
+    text-decoration: none;
+   
+}
+.div1
+{
+   margin-top: 2px;
+}
+.hori
+{
+    color: grey;
+    width: 100%;
+}
+.plus
+{
+    color: blue;
+    font-size:25px;
+    position: absolute;
+    left: 900px;
+    top: 100px;
+    text-decoration: none;
+    font-size: 25px;
+}
+.plus1
+{
+    color: blue;
+    font-size:25px;
+    position: absolute;
+    left: 700px;
+    top: 130px;
+    text-decoration: none;
+    font-size: 25px;
+}
+.plus2
+{
+    font-size:25px;
+    position: absolute;
+    left: 450px;
+    top: 130px;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+
+.frame
+{
+    position: fixed; 
+	top: 0;
+	left: 0;
+	width: 100%; 
+	height: 100%;
+	opacity: 0.4; 
+	z-index: -1; 
+    filter: blur(2px);
+}
+.new
+
+{
+    text-decoration: none;
+}
+.cross
+{
+    font-size:25px;
+    position: absolute;
+    top: 22px;
+    left: 270px;   
+}
+.cross1
+{
+    font-size:25px;
+    position: absolute;
+    top: 280px;
+    left: 780px; 
+}
+.place
+{
+    width: 95%;
+}
+
